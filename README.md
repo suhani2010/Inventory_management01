@@ -1,6 +1,6 @@
 # Inventory_management01
 Backend on Inventory Management System for E-Commerce website done under Elite Techno Groups
-###ADDING MODULE
+### ADDING MODULE
 
 1. ADMIN CAN ADD A NEW PRODUCT
 2. ADMIN CAN ADD AN EXISTING PRODUCT
